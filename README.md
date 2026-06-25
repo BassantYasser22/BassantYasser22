@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bassant Yasser 👋
 
-<!--
-**BassantYasser22/BassantYasser22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Computer Science graduate specialized in **Data Engineering and Big Data**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in building **ETL pipelines, data processing workflows, and data solutions** using Python, SQL, Azure, and Big Data technologies.
+
+Interested in Big Data Engineering.
+
+---
+
+## Skills
+
+- Python | SQL | C++
+- ETL & Data Pipelines
+- Data Modeling & Data Warehousing
+- Apache Spark | Kafka | Hive | Hadoop |Sqoop| Flume
+- Azure Data Factory | SSIS | Airflow
+- SQL Server | MySQL
+- Power BI | Tableau
+
+---
